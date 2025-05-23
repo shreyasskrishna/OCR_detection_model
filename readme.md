@@ -24,6 +24,13 @@ This project is aimed at understanding how OCR model performance varies between 
 
 ---
 
+## 🎥 Demo Video
+
+Check out the demo of this project on LinkedIn!  
+🔗 [DEMO VIDEO ON LINKEDIN](https://www.linkedin.com/posts/shreyass-krishna_ocr-miniproject-machinelearning-activity-7239317519247851520-NGP4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFwR34BKis1RSeDu8aSNsXxS4JUROO6IY0)
+
+---
+
 ## 💡 Why This Matters
 
 Understanding the performance gap between CPU and GPU execution for OCR models is essential for:
